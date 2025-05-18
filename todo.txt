@@ -1,0 +1,2 @@
+- create a file for each synth with the function of the osc graphical interface and its parameters
+
